@@ -1,0 +1,5 @@
+###[Miui ota Hosts]###
+0.0.0.0 update.miui.com
+0.0.0.0 update.intl.miui.com
+0.0.0.0 bigota.d.miui.com
+####[End]####
